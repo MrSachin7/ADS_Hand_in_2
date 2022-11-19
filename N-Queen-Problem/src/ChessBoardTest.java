@@ -24,19 +24,19 @@ class ChessBoardTest {
     @Test
     void solutionDoesNotExistForABoardOfSize3() {
         ChessBoard board = new ChessBoard(3);
-        Assertions.assertFalse(board.solveBoard());
+        assertFalse(board.solveBoard());
 
     }
 
     @Test
-    void solutionDoesNotExistForABoardOfSizeMoreThan4() {
+    void solutionDoesExistForABoardOfSizeMoreThan4() {
         ChessBoard board1 = new ChessBoard(4);
         ChessBoard board2 = new ChessBoard(8);
         ChessBoard board3 = new ChessBoard(10);
 
-        Assertions.assertTrue(board1.solveBoard());
-        Assertions.assertTrue(board2.solveBoard());
-        Assertions.assertTrue(board3.solveBoard());
+       assertTrue(board1.solveBoard());
+       assertTrue(board2.solveBoard());
+       assertTrue(board3.solveBoard());
     }
 
     @Test
