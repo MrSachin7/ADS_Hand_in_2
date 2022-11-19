@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADS_Hand_in_2.iml" filepath="$PROJECT_DIR$/ADS_Hand_in_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/N-Queen-Problem/N-Queen-Problem.iml" filepath="$PROJECT_DIR$/N-Queen-Problem/N-Queen-Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utopias_Coin/Utopias_Coin.iml" filepath="$PROJECT_DIR$/Utopias_Coin/Utopias_Coin.iml" />
+    </modules>
+  </component>
+</project>
