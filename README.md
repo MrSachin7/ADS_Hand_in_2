@@ -6,8 +6,7 @@ that no two queens can attack (control) each other. A queen in chess can move ho
 vertically and diagonally, and it is the strongest piece of chess. A backtracking algorithm 
 has been implemented to solve this problem. 
   
-           Note : The solution is only possible 
-                                         for n*n boards such that n >= 4.
+           Note : The solution is only possible for n*n boards such that n >= 4.
 
 
 ## Utopia Coins
